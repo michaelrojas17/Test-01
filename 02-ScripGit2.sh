@@ -19,7 +19,7 @@ git commit -m "$comentario"
 
 
 #Guardamos en el repositorio remoto
-git push origin PruebaScript
+git push origin HEAD
 
 
 else
